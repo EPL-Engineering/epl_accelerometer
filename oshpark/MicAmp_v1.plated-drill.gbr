@@ -1,7 +1,7 @@
 G04 start of page 8 for group -1 layer_idx 268435462 *
 G04 Title: (unknown), <virtual group> *
-G04 Creator: pcb-rnd 2.0.1 *
-G04 CreationDate: 2018-11-08 18:27:00 UTC *
+G04 Creator: pcb-rnd 2.1.0 *
+G04 CreationDate: 2019-02-14 20:47:18 UTC *
 G04 For:  *
 G04 Format: Gerber/RS-274X *
 G04 PCB-Dimensions: 316500 250000 *
@@ -9,13 +9,13 @@ G04 PCB-Coordinate-Origin: lower left *
 %MOIN*%
 %FSLAX25Y25*%
 %LNPLATED_DRILL*%
-%ADD78C,0.0500*%
-%ADD77C,0.0380*%
-%ADD76C,0.0320*%
-%ADD75C,0.0790*%
-%ADD74C,0.0420*%
-%ADD73C,0.0280*%
-%ADD72C,0.0300*%
-%ADD71C,0.0710*%
-%ADD70C,0.0650*%
+%ADD74C,0.0400*%
+%ADD73C,0.0500*%
+%ADD72C,0.0320*%
+%ADD71C,0.0790*%
+%ADD70C,0.0420*%
+%ADD69C,0.0280*%
+%ADD68C,0.0300*%
+%ADD67C,0.0710*%
+%ADD66C,0.0650*%
 M30

@@ -15,16 +15,18 @@ C 45200 45900 1 0 1 capacitor-1.sym
 {
 T 45000 46600 5 10 0 0 0 6 1
 device=CAPACITOR
-T 44800 47000 5 10 1 1 0 3 1
+T 44800 47200 5 10 1 1 0 3 1
 refdes=C1
 T 45000 46800 5 10 0 0 0 6 1
 symversion=0.1
-T 44800 46800 5 10 1 1 0 3 1
+T 44800 47000 5 10 1 1 0 3 1
 value=10uF
 T 44800 46400 5 10 1 1 0 3 1
 footprint=ACY400
-T 44800 46600 5 10 1 1 0 3 1
+T 44800 46800 5 10 1 1 0 3 1
 description=Metal Film/Mica
+T 44800 46600 5 10 1 1 0 3 1
+model-name=R60ER51005040J
 }
 C 48100 52900 1 0 0 resistor-1.sym
 {
@@ -411,7 +413,7 @@ refdes=CONN4
 T 54000 53100 5 10 1 1 0 0 1
 description=Wired to MiniHEX9 (Male)
 T 54000 52900 5 10 1 1 0 0 1
-footprint=JUMPER5
+footprint=molex-22-23-2051-mini_5_vert.fp
 T 54000 53300 5 10 1 1 0 0 1
 comment=126-220
 T 54000 51200 5 10 0 1 0 0 1
@@ -479,7 +481,7 @@ refdes=C31
 T 51000 49200 5 10 0 0 0 0 1
 symversion=0.1
 T 51200 49200 5 10 1 1 0 3 1
-value=47pF
+value=39pF
 T 51200 48800 5 10 1 1 0 3 1
 footprint=ACY300
 T 51200 49000 5 10 1 1 0 3 1
@@ -500,7 +502,7 @@ refdes=CONN1
 T 54000 55800 5 10 1 1 0 0 1
 description=Wired to MiniHEX9 (Female)
 T 54000 55600 5 10 1 1 0 0 1
-footprint=JUMPER5
+footprint=molex-22-23-2051-mini_5_vert.fp
 T 54000 56000 5 10 1 1 0 0 1
 comment=126-221
 T 54000 53900 5 10 0 1 0 0 1

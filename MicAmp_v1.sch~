@@ -411,7 +411,7 @@ refdes=CONN4
 T 54000 53100 5 10 1 1 0 0 1
 description=Wired to MiniHEX9 (Male)
 T 54000 52900 5 10 1 1 0 0 1
-footprint=JUMPER5
+footprint=molex-22-23-2051-mini_5_vert.fp
 T 54000 53300 5 10 1 1 0 0 1
 comment=126-220
 T 54000 51200 5 10 0 1 0 0 1
@@ -479,7 +479,7 @@ refdes=C31
 T 51000 49200 5 10 0 0 0 0 1
 symversion=0.1
 T 51200 49200 5 10 1 1 0 3 1
-value=47pF
+value=39pF
 T 51200 48800 5 10 1 1 0 3 1
 footprint=ACY300
 T 51200 49000 5 10 1 1 0 3 1
@@ -500,7 +500,7 @@ refdes=CONN1
 T 54000 55800 5 10 1 1 0 0 1
 description=Wired to MiniHEX9 (Female)
 T 54000 55600 5 10 1 1 0 0 1
-footprint=JUMPER5
+footprint=molex-22-23-2051-mini_5_vert.fp
 T 54000 56000 5 10 1 1 0 0 1
 comment=126-221
 T 54000 53900 5 10 0 1 0 0 1
@@ -539,7 +539,7 @@ EEF
 T 60700 40400 14 8 1 0 0 6 1
 DESIGN:
 T 60800 40400 9 10 1 0 0 0 1
-IJS
+IJS & EFF
 T 60800 40100 9 10 1 0 0 0 1
 2018.09.12
 T 60700 40100 14 8 1 0 0 6 1
@@ -626,8 +626,6 @@ refdes=CONN7
 T 41300 45600 5 10 0 1 0 0 1
 footprint=connector(2, 1, spacing=100.00mil, pin_drill=50.00mil, silkmark=external)
 }
-T 40000 40000 8 10 1 1 0 0 1
-footprint=connector(2, 1, spacing=100.00mil, silkmark=external)
 C 41300 44300 1 0 0 connector2-1.sym
 {
 T 41500 45300 5 10 0 0 0 0 1
